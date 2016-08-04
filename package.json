@@ -1,0 +1,29 @@
+{
+  "name": "field-data-array-to-json",
+  "version": "0.0.1",
+  "description": "Converts a JSON object with fields and data arrays to an array of JSON objects with mapped fields and data",
+  "main": "./lib/index.js",
+  "bin": {
+    "fda2j": "bin/fda2j.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsriram/field-data-array-to-json.git"
+  },
+  "keywords": [
+    "fields",
+    "array",
+    "data",
+    "json",
+    "transform-json"
+  ],
+  "author": "Sriram Thiagarajan <sri.sjc@gmail.com> (https://github.com/tsriram)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsriram/field-data-array-to-json/issues"
+  },
+  "homepage": "https://github.com/tsriram/field-data-array-to-json#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
