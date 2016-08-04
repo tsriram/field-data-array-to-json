@@ -1,6 +1,6 @@
 {
   "name": "field-data-array-to-json",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Converts a JSON object with fields and data arrays to an array of JSON objects with mapped fields and data",
   "main": "./lib/index.js",
   "bin": {
