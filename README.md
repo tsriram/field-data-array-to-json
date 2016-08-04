@@ -53,5 +53,5 @@ fda2j --in <path to input JSON file> --out <path for saving transformed JSON fil
   }
 ]
 ```
-
+You would not need to do this when you access the same data through API (https://data.gov.in/api/datastore/resource.json?resource_id=e16c75b6-7ee6-4ade-8e1f-2cd3043ff4c9&api-key=YOURKEY) but you might not want to use the API always and perhaps export the data and use it from your server.
 
