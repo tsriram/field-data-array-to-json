@@ -25,5 +25,6 @@
   "homepage": "https://github.com/tsriram/field-data-array-to-json#readme",
   "dependencies": {
     "minimist": "^1.2.0"
-  }
+  },
+  "preferGlobal": "true"
 }
